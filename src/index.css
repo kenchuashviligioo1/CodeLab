@@ -1,0 +1,17 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{--clb-bg-primary:#0F111A;--clb-bg-card:#161926;--clb-accent-cyan:#00E5FF;--clb-accent-blue:#3B82F6;--clb-accent-violet:#8B5CF6;--clb-text:#fff;--clb-text-2:#CBD5E1;--clb-text-3:#94A3B8;--clb-grad:linear-gradient(90deg,#00E5FF,#3B82F6,#8B5CF6)}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--clb-bg-primary);color:var(--clb-text-2);font-family:Inter,'Noto Sans Georgian',sans-serif;-webkit-font-smoothing:antialiased}
+html[lang=ka] body{font-family:'Noto Sans Georgian',Inter,sans-serif}
+h1,h2,h3,h4{font-family:'Plus Jakarta Sans','Noto Sans Georgian',sans-serif;color:#fff;line-height:1.2}
+html[lang=ka] h1,html[lang=ka] h2,html[lang=ka] h3,html[lang=ka] h4{font-family:'Noto Sans Georgian','Plus Jakarta Sans',sans-serif}
+.glass{background:rgba(22,25,38,.7);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.1);border-radius:1rem}
+.grad-text{background:var(--clb-grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.75rem 1.4rem;border-radius:.75rem;font-weight:600;font-size:.95rem;transition:.25s;cursor:pointer;border:0}
+.btn-primary{background:var(--clb-grad);color:#0F111A}.btn-primary:hover{box-shadow:0 0 28px rgba(0,229,255,.35);transform:translateY(-1px)}
+.btn-ghost{background:rgba(255,255,255,.04);color:#fff;border:1px solid rgba(255,255,255,.18)}.btn-ghost:hover{border-color:var(--clb-accent-cyan)}
+.hover-glow{position:relative;transition:.3s}.hover-glow:hover{border-color:rgba(0,229,255,.45);box-shadow:0 0 40px -8px rgba(59,130,246,.55);transform:translateY(-3px)}
+.bg-grid{background-image:linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.04) 1px,transparent 1px);background-size:44px 44px;mask-image:radial-gradient(ellipse at 50% 30%,#000 30%,transparent 75%)}
+.input{width:100%;background:rgba(15,17,26,.8);border:1px solid rgba(255,255,255,.12);border-radius:.75rem;padding:.75rem 1rem;color:#fff;outline:none}.input:focus{border-color:var(--clb-accent-cyan)}
+:focus-visible{outline:2px solid var(--clb-accent-cyan);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

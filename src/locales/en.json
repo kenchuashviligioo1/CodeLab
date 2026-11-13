@@ -1,0 +1,340 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "start": "Start a Project"
+  },
+  "common": {
+    "more": "Details",
+    "choose": "Choose package",
+    "close": "Close",
+    "similar": "Order a similar project",
+    "popular": "Popular",
+    "tech": "Technologies",
+    "work": "Scope of work",
+    "goal": "Goal",
+    "rights": "All rights reserved.",
+    "address": "Tbilisi, Georgia",
+    "visit": "Visit website"
+  },
+  "seo": {
+    "home": {
+      "title": "CodeLab — Web Development, IT, Design & Media | Tbilisi",
+      "desc": "CodeLab is a digital lab in Tbilisi: websites, IT support, branding, photo/video and content creation under one roof."
+    },
+    "services": {
+      "title": "Services & Packages | CodeLab",
+      "desc": "Web development, IT support, branding, photo/video and content — ready-made business packages."
+    },
+    "portfolio": {
+      "title": "Portfolio | CodeLab",
+      "desc": "Selected CodeLab projects: websites, branding, photo and video."
+    },
+    "about": {
+      "title": "About | CodeLab",
+      "desc": "Giorgi Kenchuashvili and the CodeLab team: a technical core with creative specialists."
+    },
+    "brief": {
+      "title": "Project Brief & Estimate | CodeLab",
+      "desc": "Fill in the brief and get a preliminary project estimate."
+    },
+    "contact": {
+      "title": "Contact | CodeLab",
+      "desc": "Get in touch: info@codelab.ge, +995 571 025 027, Tbilisi."
+    }
+  },
+  "hero": {
+    "title": "Where technology and creativity meet your business",
+    "desc": "A complete digital ecosystem in one place — web development, IT infrastructure, graphic design, photo/video production and content creation.",
+    "cta1": "Get an estimate",
+    "cta2": "View our work"
+  },
+  "home": {
+    "servicesTitle": "Five disciplines, one team",
+    "whyTitle": "Why CodeLab?",
+    "featuredTitle": "Featured projects",
+    "ctaTitle": "Have an idea? Let's start with a free consultation",
+    "ctaDesc": "Fill in a short brief and we'll reply with a preliminary estimate within one business day.",
+    "ctaBtn": "Fill in the brief"
+  },
+  "why": [
+    {
+      "t": "Direct communication",
+      "d": "You work directly with the founder and developer — no middlemen, no lost context."
+    },
+    {
+      "t": "A full team, one window",
+      "d": "Designer, photographer, videographer and content creator on one project with one point of coordination."
+    },
+    {
+      "t": "Clean, fast code",
+      "d": "A modern stack, polished on mobile and quick to load."
+    },
+    {
+      "t": "Transparent timelines",
+      "d": "An official contract, invoices and milestones agreed up front."
+    }
+  ],
+  "services": {
+    "web": {
+      "title": "Web Development",
+      "desc": "Websites and web apps that put your business to work.",
+      "items": [
+        "Corporate sites and landing pages",
+        "E-commerce",
+        "React / Vite / Tailwind web apps",
+        "WordPress solutions",
+        "UI/UX design",
+        "Mobile-first responsive layouts"
+      ]
+    },
+    "it": {
+      "title": "IT Support & Infrastructure",
+      "desc": "The technical foundation you never have to worry about.",
+      "items": [
+        "Domain and hosting setup (Vercel, cPanel)",
+        "Corporate email: DNS, MX, SPF, DKIM",
+        "SSL and security",
+        "Performance optimization",
+        "Monthly technical monitoring (retainer)"
+      ]
+    },
+    "brand": {
+      "title": "Branding & Graphic Design",
+      "desc": "A visual identity that stands out and sticks.",
+      "items": [
+        "Logo design",
+        "Brandbook",
+        "Color and typography system",
+        "Social media templates",
+        "Print and digital collateral"
+      ]
+    },
+    "media": {
+      "title": "Photo & Video Production",
+      "desc": "Footage that brings your product and brand to life.",
+      "items": [
+        "Commercial photography",
+        "Promo videos",
+        "Event coverage",
+        "Reels and TikTok vertical video editing"
+      ]
+    },
+    "content": {
+      "title": "Content Creation",
+      "desc": "Consistent, well-planned content for social channels.",
+      "items": [
+        "Social media visual packaging",
+        "Copywriting",
+        "Digital campaign planning"
+      ]
+    }
+  },
+  "packagesTitle": "Ready-made business packages",
+  "packagesNote": "Final pricing depends on scope — we confirm details after the brief.",
+  "packages": {
+    "start": {
+      "name": "Start",
+      "desc": "A fast start for a new business",
+      "items": [
+        "Business-card website",
+        "Basic SEO",
+        "Corporate email"
+      ]
+    },
+    "pro": {
+      "name": "Business Pro",
+      "desc": "A complete digital presence",
+      "items": [
+        "Full website",
+        "Branding / logo",
+        "Social media templates",
+        "1 month of free IT support"
+      ]
+    },
+    "full": {
+      "name": "Full Digital & Media",
+      "desc": "Everything in one project",
+      "items": [
+        "Website",
+        "Full brandbook",
+        "Promo photo/video shoot",
+        "Content package"
+      ]
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "sub": "Selected cases. (Sample entries — replace with real projects.)",
+    "filters": {
+      "all": "All",
+      "web": "Web & IT",
+      "brand": "Design & Branding",
+      "media": "Photo / Video"
+    },
+    "items": {
+      "p1": {
+        "title": "Aurora Dental — corporate website",
+        "goal": "Increase online bookings and build trust in the clinic.",
+        "work": [
+          "UI/UX design",
+          "Development",
+          "Photography"
+        ]
+      },
+      "p2": {
+        "title": "Kolkhida Market — online store",
+        "goal": "Sell local products nationwide.",
+        "work": [
+          "E-commerce development",
+          "Payment integration",
+          "Performance optimization"
+        ]
+      },
+      "p3": {
+        "title": "Mtkvari Coffee — branding",
+        "goal": "Identity and packaging for a new coffee brand.",
+        "work": [
+          "Logo",
+          "Brandbook",
+          "Packaging design"
+        ]
+      },
+      "p4": {
+        "title": "Vake Residence — promo video",
+        "goal": "Present a residential complex for sales.",
+        "work": [
+          "Script",
+          "Filming and drone",
+          "Editing"
+        ]
+      },
+      "p5": {
+        "title": "Nodes Logistics — web app",
+        "goal": "Track and manage shipments in a single dashboard.",
+        "work": [
+          "UI/UX",
+          "React development",
+          "API integration"
+        ]
+      },
+      "p6": {
+        "title": "Sapere Studio — brandbook & photo",
+        "goal": "One visual language across digital and print.",
+        "work": [
+          "Brandbook",
+          "Photography",
+          "Social media templates"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "founderName": "Giorgi Kenchuashvili",
+    "founderRole": "Founder, IT Specialist, Programmer, and Web Developer",
+    "founderText": "I am personally responsible for the technical architecture and development of all CodeLab projects. We work with precision, utilize modern technologies, and adhere to agreed-upon deadlines to ensure your digital product is fast, reliable, and sustainable in the long term.",
+    "teamTitle": "Team Structure",
+    "core": "IT & Development",
+    "coreDesc": "Technological Core - Architecture, Code, Infrastructure",
+    "team": [
+      "Graphic Designer",
+      "Photographer",
+      "Videographer",
+      "Content Creator"
+    ],
+    "stepsTitle": "Work Process",
+    "steps": [
+      {
+        "t": "Brief and Technical Specifications",
+        "d": "We define the goals, scope, and timelines."
+      },
+      {
+        "t": "UI/UX Design and Prototyping",
+        "d": "You see the result before any code is written."
+      },
+      {
+        "t": "Coding and Media Production",
+        "d": "Development and filming, happening in parallel."
+      },
+      {
+        "t": "Testing, Launch, and Support",
+        "d": "We test, launch, and stand by your side."
+      }
+    ]
+  },
+  "brief": {
+    "title": "Project brief",
+    "sub": "Three quick steps — then we reply with a preliminary estimate.",
+    "steps": [
+      "Services",
+      "Scope & budget",
+      "Contact"
+    ],
+    "servicesQ": "What do you need?",
+    "scale": "Project scale",
+    "scaleOpts": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "deadline": "Preferred timeline",
+    "deadlineOpts": [
+      "Urgent (1–2 weeks)",
+      "1 month",
+      "2–3 months",
+      "Flexible"
+    ],
+    "budget": "Budget (GEL)",
+    "budgetOpts": [
+      "< 1,500 ₾",
+      "1,500–5,000 ₾",
+      "5,000–15,000 ₾",
+      "15,000+ ₾"
+    ],
+    "pkg": "Selected package",
+    "name": "Name / company",
+    "phone": "Phone",
+    "email": "Email",
+    "msg": "Short project description",
+    "next": "Next",
+    "back": "Back",
+    "send": "Send brief",
+    "wa": "Send via WhatsApp",
+    "sending": "Sending…",
+    "okTitle": "Request received",
+    "okText": "Your request code is",
+    "err": "Could not send. Try again or use WhatsApp.",
+    "req": "Enter your name and a phone or email",
+    "pick": "Select at least one service"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "sub": "Write or call - we reply within the business day.",
+    "send": "Send",
+    "ok": "Thank you! Your message has been sent.",
+    "faqTitle": "Frequently asked questions",
+    "social": "Social media"
+  },
+  "faq": {
+    "f1": {
+      "q": "How does the process work?",
+      "a": "Brief → agreement and contract → design → development/production → testing and launch. You see interim results at every stage."
+    },
+    "f2": {
+      "q": "How does payment work?",
+      "a": "We start after a 50% advance. Every payment comes with an official invoice, and we sign a contract."
+    },
+    "f3": {
+      "q": "How long does a website take?",
+      "a": "A business-card site takes 1–2 weeks, a full corporate site 3–6 weeks; stores and web apps depend on scope. We confirm exact timing after the brief."
+    },
+    "f4": {
+      "q": "Do you offer support after launch?",
+      "a": "Yes. Choose monthly IT support: monitoring, updates, security and small changes."
+    }
+  }
+}

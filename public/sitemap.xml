@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://codelab.ge/ka</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en"/></url>
+<url><loc>https://codelab.ge/en</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en"/></url>
+<url><loc>https://codelab.ge/ka/services</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/services"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/services"/></url>
+<url><loc>https://codelab.ge/en/services</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/services"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/services"/></url>
+<url><loc>https://codelab.ge/ka/portfolio</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/portfolio"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/portfolio"/></url>
+<url><loc>https://codelab.ge/en/portfolio</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/portfolio"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/portfolio"/></url>
+<url><loc>https://codelab.ge/ka/about</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/about"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/about"/></url>
+<url><loc>https://codelab.ge/en/about</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/about"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/about"/></url>
+<url><loc>https://codelab.ge/ka/brief</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/brief"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/brief"/></url>
+<url><loc>https://codelab.ge/en/brief</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/brief"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/brief"/></url>
+<url><loc>https://codelab.ge/ka/contact</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/contact"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/contact"/></url>
+<url><loc>https://codelab.ge/en/contact</loc><xhtml:link rel="alternate" hreflang="ka" href="https://codelab.ge/ka/contact"/><xhtml:link rel="alternate" hreflang="en" href="https://codelab.ge/en/contact"/></url>
+</urlset>
