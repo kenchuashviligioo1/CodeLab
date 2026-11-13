@@ -213,6 +213,11 @@
     "founderName": "Giorgi Kenchuashvili",
     "founderRole": "Founder, IT Specialist, Programmer, and Web Developer",
     "founderText": "I am personally responsible for the technical architecture and development of all CodeLab projects. We work with precision, utilize modern technologies, and adhere to agreed-upon deadlines to ensure your digital product is fast, reliable, and sustainable in the long term.",
+    "companyDesc": [
+      "CodeLab is a modern IT and digital services company that brings together web development, information technology, and creative media. Our core mission is to help companies, startups, and brands establish a strong, reliable, and modern presence in the digital space.",
+      "Operating on the principle of a unified ecosystem, we enable clients to access end-to-end digital services in one place: custom website and web application development, robust IT infrastructure, graphic design and branding, commercial photo and video production, and content creation. This synthesis of engineering, design, and visual production allows us to deliver every project with a cohesive vision and the highest standards of quality.",
+      "The CodeLab team unites software developers, IT specialists, graphic designers, photographers, videographers, and content creators. We prioritize technical precision, speed, and results-driven execution—from initial project planning to full launch and ongoing technical support, we ensure a transparent workflow, strict adherence to deadlines, and a dependable partnership."
+    ],
     "teamTitle": "Team Structure",
     "core": "IT & Development",
     "coreDesc": "Technological Core - Architecture, Code, Infrastructure",

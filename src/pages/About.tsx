@@ -7,6 +7,8 @@ const tIcons = [Palette, Camera, Video, PenTool];
 
 export default function About() {
   const { t } = useLang();
+  const companyDesc = t("about.companyDesc");
+
   return (
     <>
       <SEO page="about" />
@@ -27,6 +29,16 @@ export default function About() {
             </p>
           </div>
         </div>
+
+        {Array.isArray(companyDesc) && (
+          <div className="glass mt-6 space-y-4 p-6 md:p-10">
+            {companyDesc.map((paragraph, index) => (
+              <p key={index} className="leading-relaxed">
+                {paragraph}
+              </p>
+            ))}
+          </div>
+        )}
       </Section>
 
       <Section title={t("about.teamTitle")}>
