@@ -139,11 +139,7 @@
     "start": {
       "name": "Start",
       "desc": "A fast start for a new business",
-      "items": [
-        "Business-card website",
-        "Basic SEO",
-        "Corporate email"
-      ]
+      "items": ["Business-card website", "Basic SEO", "Corporate email"]
     },
     "pro": {
       "name": "Business Pro",
@@ -168,7 +164,7 @@
   },
   "portfolio": {
     "title": "Portfolio",
-    "sub": "Selected cases. (Sample entries — replace with real projects.)",
+    "sub": "Selected cases.",
     "filters": {
       "all": "All",
       "web": "Web & IT",
@@ -179,11 +175,7 @@
       "p1": {
         "title": "Aurora Dental — corporate website",
         "goal": "Increase online bookings and build trust in the clinic.",
-        "work": [
-          "UI/UX design",
-          "Development",
-          "Photography"
-        ]
+        "work": ["UI/UX design", "Development", "Photography"]
       },
       "p2": {
         "title": "Kolkhida Market — online store",
@@ -197,38 +189,22 @@
       "p3": {
         "title": "Mtkvari Coffee — branding",
         "goal": "Identity and packaging for a new coffee brand.",
-        "work": [
-          "Logo",
-          "Brandbook",
-          "Packaging design"
-        ]
+        "work": ["Logo", "Brandbook", "Packaging design"]
       },
       "p4": {
         "title": "Vake Residence — promo video",
         "goal": "Present a residential complex for sales.",
-        "work": [
-          "Script",
-          "Filming and drone",
-          "Editing"
-        ]
+        "work": ["Script", "Filming and drone", "Editing"]
       },
       "p5": {
         "title": "Nodes Logistics — web app",
         "goal": "Track and manage shipments in a single dashboard.",
-        "work": [
-          "UI/UX",
-          "React development",
-          "API integration"
-        ]
+        "work": ["UI/UX", "React development", "API integration"]
       },
       "p6": {
         "title": "Sapere Studio — brandbook & photo",
         "goal": "One visual language across digital and print.",
-        "work": [
-          "Brandbook",
-          "Photography",
-          "Social media templates"
-        ]
+        "work": ["Brandbook", "Photography", "Social media templates"]
       }
     }
   },
@@ -269,32 +245,14 @@
   "brief": {
     "title": "Project brief",
     "sub": "Three quick steps — then we reply with a preliminary estimate.",
-    "steps": [
-      "Services",
-      "Scope & budget",
-      "Contact"
-    ],
+    "steps": ["Services", "Scope & budget", "Contact"],
     "servicesQ": "What do you need?",
     "scale": "Project scale",
-    "scaleOpts": [
-      "Small",
-      "Medium",
-      "Large"
-    ],
+    "scaleOpts": ["Small", "Medium", "Large"],
     "deadline": "Preferred timeline",
-    "deadlineOpts": [
-      "Urgent (1–2 weeks)",
-      "1 month",
-      "2–3 months",
-      "Flexible"
-    ],
+    "deadlineOpts": ["Urgent (1–2 weeks)", "1 month", "2–3 months", "Flexible"],
     "budget": "Budget (GEL)",
-    "budgetOpts": [
-      "< 1,500 ₾",
-      "1,500–5,000 ₾",
-      "5,000–15,000 ₾",
-      "15,000+ ₾"
-    ],
+    "budgetOpts": ["< 1,500 ₾", "1,500–5,000 ₾", "5,000–15,000 ₾", "15,000+ ₾"],
     "pkg": "Selected package",
     "name": "Name / company",
     "phone": "Phone",
