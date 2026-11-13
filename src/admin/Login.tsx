@@ -16,6 +16,7 @@ export default function Login() {
     if (error) setErr("არასწორი ელ-ფოსტა ან პაროლი");
     setBusy(false);
   };
+  // return to the admin page if already logged in
   return (
     <div className="grid min-h-screen place-items-center p-4">
       <form onSubmit={submit} className="glass w-full max-w-sm space-y-4 p-8">
